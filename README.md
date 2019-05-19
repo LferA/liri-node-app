@@ -16,4 +16,5 @@ Note: With the exception of do-what-it-says, all other commands accept an additi
 ## Liri Command Example
 
 > node liri.js spotify-this-song Aerials
+
 ![spotify-this-song results](/ExampleImages/spotify-this-song.PNG)
